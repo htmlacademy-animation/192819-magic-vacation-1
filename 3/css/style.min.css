@@ -3542,7 +3542,7 @@ body.loaded .screen__footer {
   height: 0;
   position: absolute;
   bottom: 0;
-  transition: height 0.5s;
+  transition: height 0.75s;
   background: #5f458c;
   z-index: 5;
 }
